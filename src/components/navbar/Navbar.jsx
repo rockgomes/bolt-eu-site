@@ -39,7 +39,7 @@ function Navbar() {
             Partner with Bolt as a: <strong>Driver </strong>
             <strong>Fleet partner </strong>
             <strong>Courier </strong>
-            <strong>Restaurant </strong> or <strong>Store</strong>
+            <strong>Restaurant or Store</strong>
           </p>
         </div>
       </div>
